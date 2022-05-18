@@ -14,4 +14,4 @@ In YAML code, the `${EnvironmentName}` would be substituted with `UdacityProject
 
 #### DNS name
 
-http://test-webap-1r6n70p63fv1h-1228020887.us-east-1.elb.amazonaws.com/
+http://udagr-webap-1m7559myqbho4-1740754672.us-west-2.elb.amazonaws.com/
